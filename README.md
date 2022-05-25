@@ -23,3 +23,5 @@ this is the first commit on the master branch
           ]
         }
       },
+
+      // onMain: adding some text after the merge
