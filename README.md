@@ -7,7 +7,7 @@ this is the first commit on the master branch
     {
       "tool": {
         "driver": {
-          "name": "ESLint",
+          
           "informationUri": "https://eslint.org",
           "rules": [
             {
